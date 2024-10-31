@@ -8,7 +8,7 @@ This is a simple LED indicator for Raspberry Pi. It uses the GPIO pins to contro
 - gcc 12 or above
 - GNU make
 - libgpiod (```apt-get install libgpiod-dev```)
-- sdbus-cpp (```apt-get install libsdbus-c++-dev```)
+- sdbus-c++ 1.4 (```apt-get install libsdbus-c++-dev```)
 
 ## Build and Install
 
